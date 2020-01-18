@@ -1,1 +1,1 @@
-Doom Fire with HTML canvas and JS
+Doom Fire with HTML and JS
